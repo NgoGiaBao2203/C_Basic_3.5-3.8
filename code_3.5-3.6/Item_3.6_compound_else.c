@@ -1,4 +1,4 @@
-// Fig_3.6_compound_else.c
+// Item_3.6_compound_else.c
 #include <stdio.h>
 
 int main( void )

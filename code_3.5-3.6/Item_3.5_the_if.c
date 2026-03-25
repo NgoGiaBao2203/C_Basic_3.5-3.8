@@ -1,4 +1,4 @@
-// Fig_3.5_the_if.c
+// Item_3.5_the_if.c
 // The if selection statement
 #include <stdio.h>
 

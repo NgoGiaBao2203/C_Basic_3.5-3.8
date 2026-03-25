@@ -1,4 +1,4 @@
-// Fig_3.6_conditional_operator.c
+// Item_3.6_conditional_operator_actions.c
 #include <stdio.h>
 
 int main( void )
@@ -8,5 +8,5 @@ int main( void )
     printf( "Enter integer: " ); // Prompt user
     scanf( "%d", &grade ); // Read integer
 
-    puts( grade >= 60 ? "Passed" : "Failed" );
+    ( grade >= 60 ) ? puts( "Passed" ) : puts( "Failed" );
 }

@@ -1,4 +1,4 @@
-// Fig_3.6_else_if.c
+// Item_3.6_else_if.c
 #include <stdio.h>
 
 int main( void )
